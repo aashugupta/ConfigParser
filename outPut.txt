@@ -1,0 +1,17 @@
+TEST : Server0,Server1,Server3
+CRB.MarketData.Server0.Host - 192.168.0.5
+CRB.MarketData.Server0.Port - 9999
+CRB.MarketData.Server1.Host - 192.168.0.2
+CRB.MarketData.Server1.Port - 9989
+CRB.MarketData.Server3.Host - 192.168.0.3
+CRB.MarketData.Server3.Port - 9989
+keyLong=8589934588
+keyFloat=2
+keyDouble=3.2
+keyChar=D
+keyStr=mystr
+shmName=
+Server0
+Server1
+Server3
+ServerList
